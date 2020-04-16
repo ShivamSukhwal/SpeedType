@@ -38,6 +38,8 @@ textarea {
   outline: none;
   height: 200px;
   background: rgb(255, 241, 43);
+  color: darkblue;
+  font-weight: 800;
   padding: 10px;
   width: 50%;
 }
